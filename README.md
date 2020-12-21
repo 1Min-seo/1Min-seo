@@ -1,16 +1,14 @@
-### Hi there 👋
+  ![header](https://capsule-render.vercel.app/api?type=RECT&color=ff9ecc&height=100&section=footer&text=Minseo%20Yoon&fontSize=47&animation=twinkling)
+### <em> Hi I'm Minseo! Front-End web dev </em>
+#### Love doing projects !
 
-<!--
-**1Min-seo/1Min-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Editor in use
+![Language badge](https://img.shields.io/badge/-Jupyter-white?style=for-the-badge&logo=jupyter) 
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007acc?style=for-the-badge&logo=visual%20studio%20code&logoColor=fff&link=https://code.visualstudio.com/)
+ 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Min-seo&bg_color=60,ff9ecc,ef75b0&title_color=fff&text_color=black"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+ 
+![footer](https://capsule-render.vercel.app/api?type=soft&color=ef75b0&height=70&section=footer&text=Hi!&fontSize=33&fontAlign=30&animation=blinking)
