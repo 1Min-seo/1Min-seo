@@ -1,4 +1,4 @@
-  ![header](https://capsule-render.vercel.app/api?type=RECT&color=ff9ecc&height=100&section=footer&text=Minseo Han&fontSize=47&animation=twinkling)
+  ![header](https://capsule-render.vercel.app/api?type=RECT&color=ff9ecc&height=100&section=footer&text=MinseoHan&fontSize=47&animation=twinkling)
 ### <em> Hi I'm Minseo! Front-End web dev </em>
 #### Love doing projects !
 
