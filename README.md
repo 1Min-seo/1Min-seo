@@ -1,7 +1,6 @@
 
-<!--
 ![header](https://capsule-render.vercel.app/api?type=slice&color=DCCBED&height=130&section=header&text=YeJi%20Koo&desc=Welcome%20to%20my%20GitHub&fontSize=35&animation=twinkling&fontAlignY=17&fontAlign=80&descSize=20&descAlign=80&descAlignY=35&rotate=9)
--->
+
 
 <div align=center>
   
@@ -37,7 +36,7 @@
   
 <h3>:space_invader: BOJ :space_invader:</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=xlzbthk)](https://solved.ac/xlzbthk) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=readex11)](https://solved.ac/readex11) 
 
 
 #
