@@ -27,8 +27,8 @@
 <h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
   
 <p>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xlzbthxyjkoo&show_icons=true&include_all_commits=true&theme=material-palenight">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xlzbthxyjkoo&layout=compact&theme=material-palenight">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1Min-seo&show_icons=true&include_all_commits=true&theme=aura_dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Min-seo&layout=compact&theme=aura_dark">
 </p>
 
 #
