@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minSeo%20Han&fontSize=90)
 
 
 <div align=center>
@@ -6,6 +6,7 @@
 <h3>Hi I'm MinSeo:wave:</h3>
 <h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
   
+  <!--움짤-->
 <img width=100% src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif"/>
 
   
