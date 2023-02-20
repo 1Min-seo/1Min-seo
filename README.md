@@ -7,7 +7,7 @@
 <h4>:thought_balloon:Welcom to my GitHub profile! I'm a student majoring in computer science. Thx for visiting :) </h4>
   
   <!--움짤-->
-<img width=100% src="[https://thumbs.gfycat.com/BaggyUnrealisticGoosefish-mobile.mp4](https://user-images.githubusercontent.com/73270553/220180487-9455e0d3-165e-4f10-b905-975c77458496.mp4)"/>
+<video width=100% src="https://user-images.githubusercontent.com/73270553/220180792-cc0e9b10-0283-46d8-b06e-65f5294fb52d.mp4"/>
 
   
 <h3>:wrench: Tech Stack :wrench:</h3>
