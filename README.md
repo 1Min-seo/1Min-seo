@@ -13,8 +13,15 @@ welcome to my github!
 </h3>
     
 <h3>:wrench: Tech Stack :wrench:</h3>
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+<h3>:wrench: Tech Stack :wrench:</h3>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
+<img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+
 
 
 
