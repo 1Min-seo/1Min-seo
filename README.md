@@ -41,11 +41,5 @@ welcome to my github!
 </p>
 
 #
-<h3>:earth_asia: Find me around the web :earth_asia:</h3>
-  
-<a href="https://www.instagram.com/1ms_eo/" target="_blank"><img alt="instagram" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://blog.naver.com/Eyes on" target="_blank"><img alt="Naver" src ="https://img.shields.io/badge/blog-03C75A.svg?&style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://github.com/readex11" target="_blank"><img alt="github" src ="https://img.shields.io/badge/github-181717.svg?&style=flat-square&logo=github&logoColor=white"/></a>
-
 
 </div>
