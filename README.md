@@ -6,7 +6,12 @@ welcome to my github!
 <br>
 <br>
     
-<h3>:wrench: Tech Stack :wrench:</h3>
+<h2>
+  My Skills 🛠️
+</h2>
+<h3>
+  Frameworks & Languages
+</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
@@ -16,10 +21,15 @@ welcome to my github!
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
 </p>
+<h3> Tools </h3>
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> 
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
 
-
-<br/><br/>
-  
+<br/><br/> 
 #
 <h3>:chart_with_upwards_trend: GitHub Stats :chart_with_upwards_trend:   </h3>
   
