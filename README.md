@@ -9,19 +9,21 @@ welcome to my github!
 <h2>
   My Skills 🛠️
 </h2>
+
 <h3>
   Frameworks & Languages
 </h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/>
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/>
-  <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=flat-square&logo=springboot&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=Redis&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white"/>
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="SpringBoot" src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/>
 </p>
-<h3> Tools </h3>
+
+<h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"> 
