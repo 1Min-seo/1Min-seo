@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=minSeo%20Han&fontSize=90)
+
+<br>Han MinSeo
 
 
 <div align=center>
