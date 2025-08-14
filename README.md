@@ -1,7 +1,7 @@
 <h1>
   HAN MIN SEO 🐋  
 </h1>
-안녕하세요 ✋ 백엔드 개발자 한민서 입니다  <br>
+안녕하세요 ✋ 개발자 한민서 입니다  <br>
 welcome to my github!
 <br>
 <br>
